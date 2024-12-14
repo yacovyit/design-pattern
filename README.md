@@ -5,11 +5,11 @@ structural - how to use objects
 
 | Group      | Pattern Name | Location                      | 
 |------------|--------------|-------------------------------|
-| structural | Adapter      | [Adapter](structural/adapter) |
-| structural | Bridge       |                               |
-| structural | Composite    |                               |
-| structural | Decorator    |                               |
-| structural | Facade       |                               |
-| structural | Flyweight    |                               |
-| structural | Proxy        |                               |
+| Structural | Adapter      | [Adapter](structural/adapter) |
+| Structural | Bridge       |                               |
+| Structural | Composite    |                               |
+| Structural | Decorator    |                               |
+| Structural | Facade       |                               |
+| Structural | Flyweight    |                               |
+| Structural | Proxy        |                               |
 
