@@ -3,15 +3,16 @@ The gang of four has patterns broken out into three groups. The groups are creat
 structural - how to use objects 
 ## Table Of Content
 
-| Group      | Pattern Name | Description                                                                                                                               | Location                      | 
-|------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Structural | Adapter      | Adapt legacy code with adapter class, connecting incompatible interfaces via new connector, client -> newAPI.adapter -> oldAPI.legacyCode | [Adapter](structural/adapter) |
-| Structural | Bridge       |                                                                                                                                           |                               |
-| Structural | Composite    |                                                                                                                                           |                               |
-| Structural | Decorator    |                                                                                                                                           |                               |
-| Structural | Facade       |                                                                                                                                           |                               |
-| Structural | Flyweight    |                                                                                                                                           |                               |
-| Structural | Proxy        |                                                                                                                                           |                               |
+| Group      | Pattern Name | Description                                                                                                                               | Location                                                | 
+|------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| Structural | Adapter      | Adapt legacy code with adapter class, connecting incompatible interfaces via new connector, client -> newAPI.adapter -> oldAPI.legacyCode | [Adapter - ArrayToList](structural/adapter/arrayToList) |
+|            |              |                                                                                                                                           |                                                         |
+| Structural | Bridge       |                                                                                                                                           |                                                         |
+| Structural | Composite    |                                                                                                                                           |                                                         |
+| Structural | Decorator    |                                                                                                                                           |                                                         |
+| Structural | Facade       |                                                                                                                                           |                                                         |
+| Structural | Flyweight    |                                                                                                                                           |                                                         |
+| Structural | Proxy        |                                                                                                                                           |                                                         |
 
 
 ### Adapter Design pattern
