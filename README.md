@@ -13,3 +13,5 @@ structural - how to use objects
 | Structural | Flyweight    |                                                                                                                                           |                               |
 | Structural | Proxy        |                                                                                                                                           |                               |
 
+
+### Adapter Design pattern
