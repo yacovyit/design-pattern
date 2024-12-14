@@ -4,5 +4,5 @@ structural - how to use objects
 ## Table Of Content
 
 | Group | Name | Location | 
-| ------ | ------ |
+| ------ | ------ | --- |
 | structural | Adapter | [Adapter](structural/adapter)|
