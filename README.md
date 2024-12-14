@@ -3,6 +3,13 @@ The gang of four has patterns broken out into three groups. The groups are creat
 structural - how to use objects 
 ## Table Of Content
 
-| Group | Name | Location | 
-| ------ | ------ | --- |
-| structural | Adapter | [Adapter](structural/adapter)|
+| Group      | Pattern Name | Location                      | 
+|------------|--------------|-------------------------------|
+| structural | Adapter      | [Adapter](structural/adapter) |
+| structural | Bridge       |                               |
+| structural | Composite    |                               |
+| structural | Decorator    |                               |
+| structural | Facade       |                               |
+| structural | Flyweight    |                               |
+| structural | Proxy        |                               |
+
